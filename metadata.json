@@ -1,0 +1,8 @@
+{
+  "name": "MyToolsHub Android Workspace",
+  "description": "Android App compiler, simulated tester, and production code generator for Samir's MyToolsHub Admin panel.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
